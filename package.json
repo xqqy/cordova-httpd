@@ -12,7 +12,7 @@
     "url": "https://github.com/xqqy/cordova-httpd/issues"
   },
   "cordova": {
-    "id": "com.rjfun.cordova.httpd",
+    "id": "com.xqqy.cordova.httpd",
     "platforms": [
       "ios",
       "android",

@@ -1,4 +1,4 @@
-package com.rjfun.cordova.httpd;
+package com.xqqy.cordova.httpd;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

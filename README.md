@@ -24,7 +24,7 @@ Add the plugin to your cordova project:
 
 Quick start, copy the demo files, and just build to play.
 
-    cp -r plugins/com.rjfun.cordova.httpd/test/* www/
+    cp -r plugins/com.xqqy.cordova.httpd/test/* www/
     
 ## Javascript APIs ##
 
@@ -123,9 +123,9 @@ This Cordova plugin is built based on following 2 projects, and thanks to the au
 
 You can use this plugin for FREE. Feel free to fork, improve and send pull request. 
 
-If need prompt support, please [buy a license](http://rjfun.github.io/), you will be supported with high priority.
+If need prompt support, please [buy a license](http://xqqy.github.io/), you will be supported with high priority.
 
-More Cordova/PhoneGap plugins by Raymond Xie, [find them in plugin registry](http://plugins.cordova.io/#/search?search=rjfun).
+More Cordova/PhoneGap plugins by Raymond Xie, [find them in plugin registry](http://plugins.cordova.io/#/search?search=xqqy).
 
-Project outsourcing and consulting service is also available. Please [contact us](mailto:rjfun.mobile@gmail.com) if you have the business needs.
+Project outsourcing and consulting service is also available. Please [contact us](mailto:xqqy.mobile@gmail.com) if you have the business needs.
 
